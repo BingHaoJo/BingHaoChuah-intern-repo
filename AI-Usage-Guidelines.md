@@ -4,10 +4,10 @@ What AI tools are typically used for your role?
 - Copilot for the AI programming assist and real-time autocomplete suggestions, Claude for complex reasoning and generating technical documentation, ChatGPT for brainstorming and quick debugging.
 
 What are the benefits and risks of using AI in a professional setting?
-- Using AI in your work can greatly increased your productivity and efficiency. Some tasks can be automated and save the human resource and cost. On the flip side, there is a risk of data being exposed to public AI tools. AI also generate imperfect code or information so take it as fact without research and using it could be dangerous.
+- Using AI in your work can greatly increase your productivity and efficiency. Some tasks can be automated and save the human resource and cost. On the flip side, there is a risk of data being exposed to public AI tools. AI also generates imperfect code or information so take it as fact without checking and using it could be dangerous.
 
 What types of information should never be entered into AI tools?
-- Personal information, confidential data and code or corporate business plans.
+- Personal information, confidential data, confidential code or corporate business plans.
 
 How can you fact-check and validate AI-generated content to ensure accuracy?
 - You can cross reference the facts with multiple AI or sources. Another way is prompting the AI to state their sources. Some AI like ChatGPT can make facts up and have no source to back it up.
@@ -21,7 +21,7 @@ How can you avoid over-reliance on AI while still benefiting from it?
 - By using other type of ways to get information namely google searching. Google searching is different from AI suggestions because you are discovering the answers yourself as opposed to having the answers told to you. The balance of using your own skills, finding the answers on your own and asking AI complex questions that is hard to answer is needed from a modern programmer.
 
 What steps will you take to ensure data privacy when using AI tools?
-- Assume every inputs are public where conversations recorded. Use anonymous names, number or identifiers when using chatbots. Use an enterprise tier if possible which guarantees data privacy from AI provider.
+- Assume every inputs may be public where conversations recorded. Use anonymous names, number or identifiers when using chatbots. Use an enterprise tier if possible which guarantees data privacy from AI provider.
 
 Task
 
@@ -31,7 +31,7 @@ Identify one task you can improve using an AI tool, and try it out.
 The prompt I gave to Claude:
 - Generate a calculator web page using react
 
-This is a caculator page I asked Claude to generate using React:
+This is a calculator page I asked Claude to generate:
 ![Generated result](image-1.png)
 Below is what Claude returned in the messages:
 - I've built the calculator with React and published it as a page. It's a four-function calculator with a history panel, and you can use it by clicking or from the keyboard. I haven't opened it or tested it in a browser.
@@ -43,11 +43,11 @@ Keyboard shortcuts: digits, ., + - * /, Enter or =, Backspace, Esc and %.
 I used React 18 loaded from a CDN with no build step, so it's a single HTML file. I assumed you wanted a standard calculator; a scientific mode could be added if you'd like it.
 
 Review the AI-generated output critically; did it require editing or fact-checking?
-- According to the output generated above, it is created in HTML instead of React. Therefore, I need to edit it into React before committing my codes. I also want an option to switch between light mode and dark mode. I will need to ask Claude to add the option to switch to light mode.
+- According to the output generated above, it is created in HTML instead of React. Therefore, I need to edit it into React before committing my code. I also want an option to switch between light mode and dark mode. For what I have edited, I have asked Claude to add a button to switch between light mode and dark mode.
 
 The prompt I gave to Claude:
 - Add a button to switch to light mode and dark mode
-The new version of caculator page:
+The new version of calculator page:
 ![Edited result](image-13.png)
 Below is what Claude returned in the messages:
 - I've added a theme toggle to the top right of the calculator, and the published page is updated. The button reads "Dark mode" or "Light mode" depending on the current theme, and clicking it switches the whole page between the two. It starts in whichever mode your device is set to. I haven't opened the page to test it.
@@ -56,4 +56,4 @@ The choice isn't saved, so a reload goes back to your device setting.
 
 
 Document one best practice you will follow when using AI tools at Focus Bear.
-- Assuming that every conversation with AI is recorded to an external party and be careful to not use confidential data when chatting with AI.
+- Assuming that every conversation with AI is recorded to an external party and be careful to never paste any confidential data when chatting with AI.
