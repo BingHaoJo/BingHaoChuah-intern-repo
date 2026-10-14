@@ -34,7 +34,6 @@ Cold Turkey
 Tiimo
 - Source links
     - Main source page: https://www.tiimoapp.com
-    - Pricing page: https://lifestack.ai/blog/tiimo-pricing
     - Features page: https://www.tiimoapp.com/product
 - Pricing: 
     - Free: Free but only in mobile
@@ -70,12 +69,3 @@ What's one feature that other apps have that Focus Bear doesn't?
 
 Based on your research, what's one improvement you think Focus Bear could make?
 - One thing I found in common in all the competitors' product is that they are very simple to process and easy to use. Even just from the pictures alone, I can immediately tell what that function is. The other apps have one main feature so it would be easier to simplify. In Focus Bear, I had a hard time understanding what the different terms mean, what the different function does and how to swiftly control the focus session, habit routine and breaks. It took me some time to fully understand the features but navigating around the app is not as intuitive as the other apps. There are tutorials but they are hidden behind 'Help & Support' which is at the bottom-left corner of the app. That makes it unlikely to be clicked. Average users especially those who have ADHD wouldn't care to click on tutorials, much less if they are hidden.
-
-Comparison between apps
-
-Main features
-- Focus Bear: Blocking distractions, Habit routine planning
-- Freedom: Blocking distractions
-- Cold Turkey: Block distractions
-- Tiimo: Visual schedule planner
-- Routinery: Habit routine planning
