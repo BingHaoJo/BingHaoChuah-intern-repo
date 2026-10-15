@@ -1,4 +1,4 @@
-Research & Learn
+ResearchResearch & Learn
 
 Who are considered vulnerable populations, and what challenges might they face in digital spaces?
 - Vulnerable populations are people who are neurodivergent. Neurodivergent individuals struggles with disctrations, cognitive and executive funtion load and sensory overload.
@@ -40,29 +40,29 @@ If you are feeling stuck, overwhelmed or confused, this is natural. It happens t
 According to the questions you have stated, you want to know how to edit what will be blocked by the Focus Bear app when you start a focus session.
 Here is a step-to-step guide on how to do just that:
 1) Left click the tab menu on your taskbar.
-![Press tab menu](image-15.png)
+![Press tab menu](./Images/image-15.png)
 2) Left click the Focus Bear logo.
 3) Left click on the setting button.
-![Setting button](image-16.png)
+![Setting button](./Images/image-16.png)
 4) Left click on Blocking which is on the left hand side of the app.
-![Blocking](image-17.png)
+![Blocking](./Images/image-17.png)
 5) Left click on the block list you want to edit.
-![Block list](image-18.png)
+![Block list](./Images/image-18.png)
 6) Left click on the + button to add a app you want to block.
-![Block app](image-19.png)
+![Block app](./Images/image-19.png)
 7) Left click on the app you want to block and press add.
-![Add app](image-20.png)
+![Add app](./Images/image-20.png)
 8) Left click on the app you don't want to block and press - button to remove it from the list.
-![Remove app](image-21.png)
+![Remove app](./Images/image-21.png)
 9) Press + to add a website you want to block.
-![URL list](image-23.png)
+![URL list](./Images/image-23.png)
 10) Paste a the URL for the website you want to block and press add.
-![Add domain](image-24.png)
+![Add domain](./Images/image-24.png)
 11) Left click on the website you don't want to block and press - button to remove it from the list.
 12) Press the radio button on Allow list to edit the website that is not block.
-![Allow list](image-25.png)
+![Allow list](./Images/image-25.png)
 
 If you are still confused, you can click on Help & Support on the bottom left side of the app which will give you access to the tutorials for this app.
-![Tutorial](image-26.png)
+![Tutorial](./Images/image-26.png)
 
 You don't have to fix everything today—just focus on the next smallest step. You've got this!

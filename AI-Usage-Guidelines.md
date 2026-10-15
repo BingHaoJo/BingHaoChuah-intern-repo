@@ -32,7 +32,7 @@ The prompt I gave to Claude:
 - Generate a calculator web page using react
 
 This is a calculator page I asked Claude to generate:
-![Generated result](image-1.png)
+![Generated result](./Images/image-1.png)
 Below is what Claude returned in the messages:
 - I've built the calculator with React and published it as a page. It's a four-function calculator with a history panel, and you can use it by clicking or from the keyboard. I haven't opened it or tested it in a browser.
 
@@ -50,7 +50,7 @@ Review the AI-generated output critically; did it require editing or fact-checki
 The prompt I gave to Claude:
 - Add a button to switch to light mode and dark mode
 The new version of calculator page:
-![Edited result](image-13.png)
+![Edited result](./Images/image-13.png)
 Below is what Claude returned in the messages:
 - I've added a theme toggle to the top right of the calculator, and the published page is updated. The button reads "Dark mode" or "Light mode" depending on the current theme, and clicking it switches the whole page between the two. It starts in whichever mode your device is set to. I haven't opened the page to test it.
 
