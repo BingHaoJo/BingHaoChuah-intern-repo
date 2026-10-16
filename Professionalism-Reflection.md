@@ -9,12 +9,12 @@ What are examples of professional vs. unprofessional behaviour in a casual work 
     - Unprofessional: Did not complete the tasks at all or late.
 - Respectful messages
     - Professional: Send messages in a gentle tone and use emojis sparingly if they help tone.
-    - Unprofessional: Send messages with passive aggressive tones with cursed words or harrassing coworker with discrimination, cyberbullying or serious threats.
+    - Unprofessional: Send messages with passive-aggressive tones with cursed words or harassing coworker with discrimination, cyberbullying or serious threats.
 
 What does respectful communication look like in remote teams?
 - Avoid sending constant, urgent pings outside of work hours.
 - Add details and context with friendly language so tone is not misconstrued
-- Always respond to the messages to let the sender know that the message is received. Send "Noted" if there aren't any replies needed.
+- Acknowledge messages when a response is needed or helpful to let the sender know that the message is received. Send "Noted" if there aren't any replies needed.
 
 How can you give and receive feedback professionally?
 - Assume good intention and try to understand and reflect.
@@ -25,7 +25,7 @@ How can you give and receive feedback professionally?
 Reflection
 
 Have you ever experienced or witnessed great teamwork and professionalism? What made it effective?
-- There was once when I was doing my internship in Malaysia. I witnessed two coworkers were discussing about a bug in the system. They were each giving solutions to the problem and when the solutions don't work, they continued thinking of different solutions instead of getting mad at each other. I think what made the teamwork effective is that both of them are willing to give each other the benefit of the doubt and respectfully trust each other's judgement to give the solutions a try, even if it would end in failure.
+- I have witnessed it once during my internship in Malaysia. Two coworkers were discussing about a bug in the system. They were each giving solutions to the problem and when the solutions didn't work, they continued thinking of different solutions instead of getting mad at each other. I think what made the teamwork effective is that both of them were willing to give each other the benefit of the doubt and respectfully trust each other's judgement to give the solutions a try, even if it would end in failure.
 
 What steps can you take to make sure your communication is clear, respectful, and inclusive?
 - Start the message with a friendly tone like "Hi" and use friendly language to deliver the message.
@@ -57,8 +57,8 @@ How might you follow up with colleagues or supervisors if you need information/a
 
 What are some things you won't do?
 - I won't wait around for instructions.
-- Not taking notes in meetings.
-- Coming to meetings unprepared.
-- Asking questions that could be answered using Google.
-- Ignoring feedback or action items.
-- Not be disrespectful to my coworkers.
+- I won't skip note-taking in meetings.
+- I won't come to meetings unprepared.
+- I won't ask easily searchable questions before checking first.
+- I won't ignore feedback or action items.
+- I won't be disrespectful to my coworkers.
