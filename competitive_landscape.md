@@ -41,7 +41,7 @@ Tiimo
     - Pro Monthly: $7.99 per month
     - Pro Annual: $79.99 per year
     - Family Plan: $119.99 per year, up to 5 users
-- Platform: Windows, Mac, Android, iOS, watchOS, iPadOS
+- Platform: Web, Android, iOS, watchOS, iPadOS
 - Standout features: Schedule planner with visuals and AI assistant.
 ![Pricing](./Images/image-12.png)
 ![Features](./Images/image-6.png)
@@ -60,7 +60,7 @@ Routinery
 ![Features](./Images/image-10.png)
 
 What makes Focus Bear different from these apps?
-- These apps specialize in one kind of main feature while Focus Bear includes all the main features from these apps. These apps are able to expand on their one main feature and add many quality of life features to support the main feature. Focus Bear doesn't specialize in just one feature. Focus Bear has distraction blocking, habit routines, to do list and breaks. Each of the features is useful but doesn't expand on them too much.
+- These apps specialize in one kind of main feature while Focus Bear includes several core features in one app. These apps are able to expand on their one main feature and add many quality of life features to support the main feature. Focus Bear doesn't specialize in just one feature. Focus Bear has distraction blocking, habit routines, to do list and breaks. Each of the features is useful but doesn't expand on them too much.
 
 If you were a user, why would you choose Focus Bear over competitors?
 - I would choose Focus Bear because it has all of the main features from the competitors in one place. I can use the habit routine planning feature and use the focus session if I want to. I don't have to download two apps for different functions but I am not pressured to use one function over the other if I don't want to.
