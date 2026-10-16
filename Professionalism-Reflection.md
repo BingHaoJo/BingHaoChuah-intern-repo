@@ -1,3 +1,5 @@
+# Professionalism Reflection
+
 Research & Learn
 
 What are examples of professional vs. unprofessional behaviour in a casual work environment? (Hint: Think about communication, meeting etiquette, and teamwork.)
